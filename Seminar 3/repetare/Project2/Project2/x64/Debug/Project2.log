@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare\Project2\FileName.cpp(136,28): error C2440: '=': cannot convert from 'const int' to 'int *'
+      E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare\Project2\FileName.cpp(136,28):
+      Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  

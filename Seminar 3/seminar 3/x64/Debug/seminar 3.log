@@ -1,0 +1,27 @@
+﻿  repetare.cpp
+E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare.cpp(90,35): error C3867: 'Student::getBursa': non-standard syntax; use '&' to create a pointer to member
+      E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare.cpp(90,35):
+      the template instantiation context (the oldest one first) is
+          E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare.cpp(90,7):
+          see reference to function template instantiation 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' being compiled
+  
+E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare.cpp(92,44): error C3867: 'Student::getBursa': non-standard syntax; use '&' to create a pointer to member
+      E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare.cpp(92,44):
+      the template instantiation context (the oldest one first) is
+          E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare.cpp(92,7):
+          see reference to function template instantiation 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' being compiled
+  
+E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare.cpp(94,42): error C3867: 'Student::getareBursa': non-standard syntax; use '&' to create a pointer to member
+      E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare.cpp(94,42):
+      the template instantiation context (the oldest one first) is
+          E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare.cpp(94,7):
+          see reference to function template instantiation 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' being compiled
+  
+E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare.cpp(96,43): error C3867: 'Student::getareBursa': non-standard syntax; use '&' to create a pointer to member
+      E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare.cpp(96,43):
+      the template instantiation context (the oldest one first) is
+          E:\Facultate\An 2 Sem 1\POO\seminar 3\repetare.cpp(96,7):
+          see reference to function template instantiation 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' being compiled
+  
+  s3.cpp
+  Generating Code...
