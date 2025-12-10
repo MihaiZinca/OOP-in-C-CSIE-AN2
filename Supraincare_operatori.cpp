@@ -113,7 +113,7 @@ public:
 		this->nivelViata *= 1.1;
 		return *this;
 	}
-	
+ 	
 	//operator ++(forma postfixata x++)
 	Caracter operator++(int)
 	{
@@ -159,7 +159,7 @@ public:
 	//	return *this;
 	//}
 
-	Caracter operator+=(const Caracter& c)
+	Caracter& operator+=(const Caracter& c)
 	{
 		int totalArme = this->nrArme + c.nrArme;
 		double* armeNoi = new double[totalArme];
@@ -167,7 +167,7 @@ public:
 			armeNoi[i] = this->putereArme[i];
 
 		for (int i = 0; i < c.nrArme; i++)
-			armeNoi[this->nrArme + 1] = c.putereArme[i];
+			armeNoi[this->nrArme + i] = c.putereArme[i];
 
 		delete[] putereArme;
 		this->putereArme = armeNoi;
